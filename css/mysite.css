@@ -1,0 +1,252 @@
+
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    font-family: "Montserrat";
+}
+@font-face{
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: 'Sacramento';
+}
+@font-face{
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+    font-family: 'Merriweather';
+}
+@font-face{
+    src: url(../fonts/Abel/abel-regular.ttf);
+    font-family: 'Abel';
+}
+@font-face{
+    src: url(../fonts/Oswald/Oswald-Regular.ttf);
+    font-family: 'Oswald';
+}
+
+.background{
+    background: url(../images/gradient_green_texture_131365_1600x1200.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.topdesign img{
+    background-size: cover;
+    position: relative;
+    width: 100%;
+}
+
+.text{
+    font-family: 'Abel';
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.subtext{
+    font-family: 'Abel';
+    text-align: center;
+    font-size: 40px;
+}
+
+.greeting img{
+    height: 200px;
+    width: 200px;
+    border-radius: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Abel';
+    color: black;
+    font-size: 25px;
+}
+
+#hello{
+    text-align: center;
+    font-family: 'Abel';
+    color: black;
+    font-size: 45px;
+}
+
+.shade{
+    margin-right: 150px;
+    margin-left: 150px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    display: block;
+    background-color: rgba(255, 255, 255, 0.281);
+}
+
+.skill{
+    margin-top: 60px;
+    text-align: center;
+    color: black;
+    font-family: 'Abel';
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.info img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.statement{ 
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Abel';
+    color: black;
+    font-size: 20px;
+}
+
+#web{
+    text-align: center;
+    font-family: 'Abel';
+    color: black;
+    font-size: 30px;
+}
+
+.info2 img{
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.statement2{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Abel';
+    color: black;
+    font-size: 20px;
+}
+
+#astro{
+    text-align: center;
+    font-family: 'Abel';
+    color: black;
+    font-size: 30px;
+}
+
+.getin{
+    margin-top: 100px;
+    text-align: center;
+    color: black;
+    font-family: 'Abel';
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.toknow{
+    text-align: center;
+    color: black;
+    font-family: 'Abel';
+    font-size: 20px;
+}
+
+.details{ 
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 50px;
+    text-align: center;
+    color: black;
+    font-family: 'Abel';
+    font-size: 20px;
+}
+
+button{
+    font-size: 20px;
+    font-family: 'Abel';
+    display: block;
+    line-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: auto;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 25px;
+    border: black thin;
+}
+
+.link{
+    width: auto;
+    font-family: 'Abel';
+    background-color:teal;
+    font-size: 25px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.contactme{
+    padding-top: 50px;
+    background: url(../images/gradient_green_texture_131365_1600x1200.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Abel';
+    color: black;
+    font-size: 25px;
+}
+
+.contactme img{
+    height: 200px;
+    width: 200px;
+    border-radius: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#home{
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Abel';
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+#query{
+    font-size: 15px;
+    font-family: 'Abel';
+    display: block;
+    line-height: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: auto;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 25px;
+    border: black thin;
+}
+
+.links{
+    width: auto;
+    font-family: 'Abel';
+    background-color:teal;
+    font-size: 25px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
